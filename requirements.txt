@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+google-generativeai
+stripe
+phonenumbers
+pytz
+openpyxl
