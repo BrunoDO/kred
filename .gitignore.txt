@@ -1,16 +1,5 @@
-# Visual Studio junk (ADD THIS LINE)
 .vs/
-
-# KRED Security: Ignore local secrets
 .streamlit/
-secrets.toml
-
-# Python: Ignore virtual environments and cache
 __pycache__/
-*.py[cod]
 venv/
-.env
-
-# OS: Ignore system files
-.DS_Store
-Thumbs.db
+*.pyc
